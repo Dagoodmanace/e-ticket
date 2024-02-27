@@ -1,0 +1,12 @@
+.navbar{
+  display: flex;
+  justify-content: space-between;
+  padding: 20px 120px;
+  align-item: center
+}
+
+.navbar .Logo{
+  font-size: 24px;
+  font-weight: bold;
+
+}
